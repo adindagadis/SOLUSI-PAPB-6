@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,206,271,335,409,480",
+                        "endColumns": "80,69,64,63,73,70,64",
+                        "endOffsets": "131,201,266,330,404,475,540"
+                    }
+                }
+            ]
+        }
+    ]
+}

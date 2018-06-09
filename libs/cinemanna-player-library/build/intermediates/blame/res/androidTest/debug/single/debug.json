@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_play.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-hdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_off12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_off12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_decrement3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_decrement3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_increment4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_increment4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xxhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_exo_playback_control_view.xml.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_pause.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xxhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_increment3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_increment3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_off12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_off12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_decrement4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_decrement4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_increment12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_increment12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_on12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_on12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_full_screen5.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\full_screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_decrement2.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_decrement2.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_play.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-mdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_increment4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_increment4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_play.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_rewind.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-hdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_increment3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_increment3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_next.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_off12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_off12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_decrement.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_decrement.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_full_screen5.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\full_screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_increment3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_increment3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_decrement2.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_decrement2.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_rewind.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_retry_icon.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\retry_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_decrement.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_decrement.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_previous.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-hdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_previous.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_retry_icon.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\retry_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_increment12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_increment12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_decrement12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_decrement12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_next.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-hdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_decrement12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_decrement12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_decrement.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_decrement.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_decrement2.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_decrement2.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_recstyletext.xml.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\drawable\\recstyletext.xml"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_exo_simple_player_view.xml.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_next.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-mdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_increment12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_increment12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_decrement2.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_decrement2.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_increment4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_increment4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_full_screen5.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\full_screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_decrement12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_decrement12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_decrement4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_decrement4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_decrement3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_decrement3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_player_view_layout.xml.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\layout\\player_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_next.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_fullscreen_imageview.xml.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\layout\\fullscreen_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_increment12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_increment12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_decrement12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_decrement12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_play.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xxhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_rewind.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-mdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_on12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_on12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_increment3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_increment3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_on12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_on12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_pause.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-mdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_retry_icon.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\retry_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_decrement4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_decrement4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_previous.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_subtitle_decrement3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\subtitle_decrement3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_play.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-mdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_off12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_off12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_retry_icon.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\retry_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_previous.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xxhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_subtitle_decrement4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\subtitle_decrement4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_decrement3.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_decrement3.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_increment4.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_increment4.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_previous.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-mdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_quality_item.xml.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\layout\\quality_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_full_screen5.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\full_screen5.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_pause.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_fastforward.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xxhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_pause.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-hdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_pause.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_subtitle_on12.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\subtitle_on12.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_next.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-xxhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_subtitle_decrement.png.flat",
+        "source": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\subtitle_decrement.png"
+    },
+    {
+        "merged": "C:\\Users\\userr\\AndroidStudioProjects\\SOLUSI\\libs\\cinemanna-player-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "C:\\Users\\userr\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.0.4.aar\\7e4d1afa3ff2a540073dc0a6aed5353e\\res\\drawable-hdpi-v4\\exo_controls_fastforward.png"
+    }
+]

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="30dp"
+    tools:context=".Fragment.OverviewFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="190dp"
+                android:layout_height="match_parent"
+                android:text="&quot;JADILAH PEMILIH YANG CERDAS&quot;"
+                android:autoSizeMaxTextSize="200dp"
+                android:textColor="@color/colorText"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/kpulogo"/>
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/over1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_button_guide"
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_margin="10dp"
+                    app:cardElevation="2dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardBackgroundColor="@color/colorPrimary">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="15dp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/over1"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="Persyaratan\ndan Tips untuk Pemilih"
+                            android:gravity="center"
+                            android:textColor="@color/colorText"
+                            android:textSize="15sp"
+                            android:textStyle="bold"/>
+                    </LinearLayout>
+
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_button_berita"
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_margin="10dp"
+                    app:cardElevation="2dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardBackgroundColor="@color/colorPrimary">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/over2"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Berita\nPilkada"
+                        android:gravity="center"
+                        android:textColor="@color/colorText"
+                        android:textSize="20sp"
+                        android:textStyle="bold"/>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_button_dpt"
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_margin="10dp"
+                    app:cardElevation="2dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardBackgroundColor="@color/colorPrimary">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/over3"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Profil Paslon"
+                        android:gravity="center"
+                        android:textColor="@color/colorText"
+                        android:textSize="18sp"
+                        android:textStyle="bold"/>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_button_tps"
+                    android:layout_width="150dp"
+                    android:layout_height="120dp"
+                    android:layout_margin="10dp"
+                    app:cardElevation="2dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardBackgroundColor="@color/colorPrimary">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <ImageView
+                            android:layout_marginTop="10dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/over5"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="TPS Terdekat"
+                            android:gravity="center"
+                            android:textColor="@color/colorText"
+                            android:textSize="20sp"
+                            android:textStyle="bold"/>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+
+            </LinearLayout>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_button_bantuan"
+                android:layout_width="150dp"
+                android:layout_height="120dp"
+                android:layout_margin="10dp"
+                app:cardElevation="2dp"
+                app:cardCornerRadius="15dp"
+                app:cardBackgroundColor="@color/colorPrimary">
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/over4"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Kontak KPU"
+                        android:gravity="center"
+                        android:textColor="@color/colorText"
+                        android:textSize="20sp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="2018 - www.diy.kpu.go.id"
+            android:textColor="@android:color/black"
+            android:gravity="center|bottom"/>
+
+    </LinearLayout>
+
+</FrameLayout>

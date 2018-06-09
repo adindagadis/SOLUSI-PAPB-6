@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="TPS TERDEKAT"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/text_kabupaten"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KABUPATEN" />
+    <Spinner
+        android:id="@+id/spinner_kabupaten"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/kabupaten"/>
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/text_kecamatan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KECAMATAN" />
+    <Spinner
+        android:id="@+id/spinner_kecamatan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/kecamatan"/>
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/text_kelurahan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KELURAHAN" />
+    <Spinner
+        android:id="@+id/spinner_kelurahan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/kelurahan"/>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/button_cari"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CARI"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/colorText"
+            android:background="@color/colorPrimary"
+            android:onClick="cari"/>
+    </RelativeLayout>
+
+</LinearLayout>

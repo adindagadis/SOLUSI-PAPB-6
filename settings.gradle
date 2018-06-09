@@ -1,0 +1,2 @@
+include ':app', ':cinemanna'
+project(':cinemanna').projectDir = file('libs/cinemanna-player-library')
